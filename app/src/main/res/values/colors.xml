@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#778899</color>
+    <color name="colorPrimaryDark">#E640C4FF</color>
+    <color name="colorAccent">#778899</color>
+
+    <color name="Accent">#03DAC5</color>
+    <color name="colorPurple">#6200EE</color>
+    <color name="colorBlue">#3700B3</color>
+    <color name="colorGrey">#FFB1AFAF</color>
+    <color name="PRIMARY">#6200EE</color>
+
+    <color name="lightCyan">#E0FFFF</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="Abu2Tua">#A9A9A9</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="MSblue">#7B68EE</color>
+    <color name="white">#FFF</color>
+
+    <color name="blus">#E640C4FF</color>
+    <color name="blusy">#FFF3E5F5</color>
+    <color name="Lightblus">#FFE0F2F1</color>
+
+    <color name="green">#00E676</color>
+    <color name="red">#FF1744</color>
+</resources>

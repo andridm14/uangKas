@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Uang Kas</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="keluar">Keluar</string>
+    <string name="masuk">Masuk</string>
+    <string name="hintKeterangan">Keterangan</string>
+    <string name="hintJumlah">Rp.</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="txt_pemasukan">PEMASUKAN</string>
+    <string name="txt_pengeluaran">PENGELUARAN</string>
+    <string name="rp">Rp.0</string>
+    <string name="saldo">SALDO</string>
+    <string name="dialog_edit">Edit</string>
+    <string name="dialog_hapus">Hapus</string>
+
+
+    <string name="intent_id">id</string>
+    <string name="intent_status">status</string>
+    <string name="intent_jumlah">jumlah</string>
+    <string name="intent_keterangan">keterangan</string>
+    <string name="intent_tanggal">tanggal</string>
+</resources>
