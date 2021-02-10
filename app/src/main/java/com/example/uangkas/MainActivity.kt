@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
 //            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
 //                    .setAction("Action", null).show()
             startActivity(Intent(this, AddActivity2::class.java))
+            overridePendingTransition(R.anim.slide_form_right, R.anim.slide_from_left)
         }
     }
 

@@ -30,6 +30,7 @@ class AddActivity2 : AppCompatActivity() {
 
             }else{
                var id = App.db!!.insertData(status, editJumlah.text.toString(), editKeterangan.text.toString())
+                overridePendingTransition(R.anim.slide_from_left, R.anim.slide_form_right)
                 Log.e("_logId", id.toString());
                 if(id > 0){
                     Toast.makeText(applicationContext, "Berhasil!",
